@@ -78,12 +78,6 @@ return (`
 
       </div>
       <!-- /.row -->
-
-
-    </div>
-    <!-- /.container -->
-
-
 `)
 }
 export default index
