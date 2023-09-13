@@ -6,4 +6,7 @@ let d = document.getElementById("main-container");
 if(d.getAttribute("name") === "index"){
   d.innerHTML = index()
 }
+else if(d.getAttribute("name") === "removal-services"){
+d.innerHTML = removalServices();
+}
 
