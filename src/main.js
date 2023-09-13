@@ -1,4 +1,4 @@
 import './styles.scss';
 import index  from './content.js'
 
-document.body.innerHTML = index()
+document.getElementById("main-container").innerHTML = index()
