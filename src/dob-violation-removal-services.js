@@ -40,4 +40,4 @@ function removalServices(){
           `)
 }
 
-export 
+export default removalServices
