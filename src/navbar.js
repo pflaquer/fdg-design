@@ -38,4 +38,4 @@ function navbar(){
 
   `)
 }
-exprt default navbar
+export default navbar
