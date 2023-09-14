@@ -1,4 +1,4 @@
-function cta()=>{
+function cta(){
   return (`
   <h2 class="display-4">Contact Us Today</h2>
       <p class="lead">If you're facing building violations in NYC, don't wait any longer. Contact us today to learn more about how our violation removal services can help you get your violations dismissed.</p>
