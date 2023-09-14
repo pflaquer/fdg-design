@@ -1,5 +1,5 @@
 function index(){
-if(document.readyState != false){
+if(document.readyState != 'loading'){
       
       return (`
 
