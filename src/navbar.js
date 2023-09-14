@@ -1,4 +1,4 @@
-function navbar(){
+cfunction navbar(){
   return(`
 
 <!-- Nav Content Below -->
@@ -18,7 +18,7 @@ function navbar(){
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
+              <a class="nav-link" href="#services">Services</a>
             </li>
   <li class="nav-item">
               <a class="nav-link" href="removal-services.html">DOB Violation Removal</a>
