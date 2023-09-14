@@ -5,8 +5,8 @@ import cta from './cta.js'
 
 //render cta
 
-let cta = document.getElementById("cta");
-cta.innerHTML = cta();
+let c = document.getElementById("cta");
+c.innerHTML = cta();
 
 //render navbar
 let n = document.getElementById("navbar");
