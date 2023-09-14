@@ -1,5 +1,3 @@
-//import cta from './cta.js'
-
 function removalServices(){
   return (`
 
@@ -31,7 +29,7 @@ function removalServices(){
     </section>
     <!--cta goes here-->
     <section id="cta">
-${cta}
+    %%
     </section>
           </header>
           `)
