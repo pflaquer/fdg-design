@@ -1,7 +1,7 @@
 function navbar(){
   return(`
 
-
+<!--
  <div class="container">
         <a class="navbar-brand" href="#"><img src="flaquer_design_group_logo.webp" class="logo"</img></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
