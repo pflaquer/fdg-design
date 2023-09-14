@@ -1,5 +1,7 @@
 function index(){
-return (`
+if(document.readyState != false){
+      
+      return (`
 
 <!-- Page Content -->
 <main role="main">
@@ -79,5 +81,6 @@ return (`
       </div>
       <!-- /.row -->
 `)
+}
 }
 export default index
