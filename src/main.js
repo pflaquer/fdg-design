@@ -11,6 +11,9 @@ let d = document.getElementById("main-container");
 //d.innerHTML = eval(page+())
 //determine which data to render based on page
 if(d.getAttribute("name") === "index"){
+  d.innerHTML = "<div class="spinner-border" role="status">
+  <span class="sr-only">Loading...</span>
+</div>"
   d.innerHTML = index()
 }
 else if(d.getAttribute("name") === "removal-services"){
