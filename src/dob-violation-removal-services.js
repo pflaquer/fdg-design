@@ -10,7 +10,7 @@ function removalServices(){
         
         </section>
     <section>
-      <h2 class="display-5">How to Remove a Building Violation</h2>
+      <h2 class="display-5">How to Remove a Building Violation in Manhattan</h2>
       <p class="lead">There are a few ways to remove a building violation. You can:</p>
       <ul>
         <li class="lead">Correct the violation and submit proof to the DOB.</li>
