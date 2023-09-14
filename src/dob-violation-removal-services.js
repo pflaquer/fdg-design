@@ -1,8 +1,10 @@
+import cta from './cta.js'
+
 function removalServices(){
   return (`
 
   <header class="jumbotron my-4">
-        <h1 class="display-4" style="filter: drop-shadow(4px 3px 5px gray);">The Ultimate Guide to Removing a Building Violation in New York City</h1>
+        <h1 class="display-5" style="filter: drop-shadow(4px 3px 10px skyblue);align-text:center;text-align:center;">The Ultimate Guide to Removing a Building Violation in New York City</h1>
         <p><img src="https://a810-bisweb.nyc.gov/bisweb/images/doblogo_1.jpg" style="border-radius:25px;"</p>
         <section>
       <p class="lead">Ignoring building violations can have serious consequences. The DOB can issue fines, order the property to be vacated, or even demolish the property. In addition, property owners with outstanding violations may have difficulty obtaining financing or selling their property.
@@ -27,15 +29,10 @@ function removalServices(){
       <p class="lead">If you're facing building violations, hiring a violation removal services company can be a great way to get the violations dismissed quickly and easily. Violation removal companies have the experience and expertise to navigate the DOB process and get the results you need.</p>
       <p class="lead">In addition, violation removal companies can often get violations dismissed even if you're guilty. This is because they know how to build a strong case and present it to the DOB in a way that is likely to succeed.</p>
     </section>
-    <section>
-      <h2 class="display-4">Contact Us Today</h2>
-      <p class="lead">If you're facing building violations in NYC, don't wait any longer. Contact us today to learn more about how our violation removal services can help you get your violations dismissed.</p>
-      <p class="lead">
-        <a href="tel:" class="btn btn-warning btn-lg"><i class="material-icons" style="font-size:30px;color:orangered">phone_in_talk</i>Call: (212) DESIGN</a><br><a href="#" target="" class="btn btn-warning"><i class="material-icons">email</i>Get a Free Quote</a>
+    <!--cta goes here-->
+    <section id="cta">
 
-      </p>
     </section>
-
           </header>
           `)
 }
