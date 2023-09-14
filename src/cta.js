@@ -10,4 +10,3 @@ function cta()=>{
 }
 
 export default cta
-  
