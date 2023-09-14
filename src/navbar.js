@@ -1,4 +1,4 @@
-cfunction navbar(){
+function navbar(){
   return(`
 
 <!-- Nav Content Below -->
