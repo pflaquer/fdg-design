@@ -31,7 +31,7 @@ function removalServices(){
     </section>
     <!--cta goes here-->
     <section id="cta">
-
+${cta}
     </section>
           </header>
           `)
