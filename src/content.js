@@ -34,7 +34,7 @@ return (`
 <p id="content">
   
 
-        <div class="col-lg-4 col-md-6 mb-4">
+        <div class="col-lg-4 col-md-6 mb-4" id="services">
           <div class="card" style="height:600px;">
             <img class="card-img-top" src="https://foyr.com/learn/wp-content/uploads/2019/03/Blueprint.jpg" alt="" style="height:256px;">
             <div class="card-body">
