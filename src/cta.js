@@ -1,6 +1,6 @@
 function cta(){
   return (`
-
+<center>
   <div class="card border-warning" style="padding:5px;">
   <div style="padding:7px;">
   <h2 class="display-5">Contact Us Today</h2>
@@ -11,6 +11,7 @@ function cta(){
       </p>
       </div>
       </div>
+      </center>
       `)
 }
 
