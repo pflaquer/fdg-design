@@ -1,6 +1,4 @@
 function index(){
-//if(document.readyState != 'loading'){
-      
       return (`
 
 <!-- Page Content -->
@@ -82,5 +80,5 @@ function index(){
       <!-- /.row -->
 `)
 }
-//}
+
 export default index
