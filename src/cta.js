@@ -1,7 +1,7 @@
 function cta(){
   return (`
 
-  <div class="card">
+  <div class="card bg-primary">
   <h2 class="display-5">Contact Us Today</h2>
       <p class="lead">If you're facing building violations in NYC, don't wait any longer. Contact us today to learn more about how our violation removal services can help you get your violations dismissed.</p>
       <p class="lead">
