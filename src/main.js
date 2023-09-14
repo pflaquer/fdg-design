@@ -3,7 +3,7 @@ import removalServices from './dob-violation-removal-services.js'
 import navbar from './navbar.js'
 
 //render navbar
-let n = document.getElementById("nav");
+let n = document.getElementById("navbar");
 n.innerHTML = navbar();
 
 let d = document.getElementById("main-container");
