@@ -10,7 +10,7 @@ function removalServices(){
         
         </section>
     <section>
-      <h2 class="display-4">How to Remove a Building Violation</h2>
+      <h2 class="display-5">How to Remove a Building Violation</h2>
       <p class="lead">There are a few ways to remove a building violation. You can:</p>
       <ul>
         <li class="lead">Correct the violation and submit proof to the DOB.</li>
@@ -23,13 +23,9 @@ function removalServices(){
       </p>
     </section>
     <section>
-      <h2 class="display-4">Why Choose Flaquer Design Group for Violation Removal Services?</h2>
+      <h2 class="display-5">Why Choose Flaquer Design Group for Violation Removal Services?</h2>
       <p class="lead">If you're facing building violations, hiring a violation removal services company can be a great way to get the violations dismissed quickly and easily. Violation removal companies have the experience and expertise to navigate the DOB process and get the results you need.</p>
       <p class="lead">In addition, violation removal companies can often get violations dismissed even if you're guilty. This is because they know how to build a strong case and present it to the DOB in a way that is likely to succeed.</p>
-    </section>
-    <!--cta goes here-->
-    <section id="cta">
-    %%
     </section>
           </header>
           `)
