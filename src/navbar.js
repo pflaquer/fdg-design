@@ -21,7 +21,7 @@ function navbar(){
               <a class="nav-link" href="#services">Services</a>
             </li>
   <li class="nav-item">
-              <a class="nav-link" href="removal-services.html">DOB Violation Removal</a>
+              <a class="nav-link" href="dob-violation-removal-services.html">DOB Violation Removal</a>
             </li>
             </li>
 
