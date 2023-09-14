@@ -34,5 +34,5 @@ function navbar(){
         </div>
 
   `)
-
+}
 exprt default navbar
