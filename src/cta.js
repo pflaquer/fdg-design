@@ -2,7 +2,7 @@ function cta(){
   return (`
 
   <div class="card border-warning" style="padding:5px;">
-  <div style="padding:5px;">
+  <div style="padding:7px;">
   <h2 class="display-5">Contact Us Today</h2>
       <p class="lead">If you're facing building violations in NYC, don't wait any longer. Contact us today to learn more about how our violation removal services can help you get your violations dismissed.</p>
       <p class="lead">
