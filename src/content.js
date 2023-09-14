@@ -6,7 +6,7 @@ return (`
       <!-- Jumbotron Header -->
       <div class="jumbotron my-4" style="background-image:linear-gradient (white,lightyellow);">
         <div class="container" style="margin-top:75px;">
-        <h1 class="display-5" style="filter: drop-shadow(4px 3px 10px orange);">Engineering, Architectural and Construction Services</h1>
+        <h1 class="display-5" style="filter: drop-shadow(4px 3px 10px orange);align-text:center;">Engineering, Architectural and Construction Services</h1>
         <p class="lead">We are a family run architecture and engineering design firm.  We provide services throughout the New York metropolitan area, NJ and PA and are able to provide the best rates through our unique bidding process.  All initial consultations are free of charge.</p>
         <p>
 <ul>
