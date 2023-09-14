@@ -1,5 +1,5 @@
 function index(){
-if(document.readyState != 'loading'){
+//if(document.readyState != 'loading'){
       
       return (`
 
@@ -82,5 +82,5 @@ if(document.readyState != 'loading'){
       <!-- /.row -->
 `)
 }
-}
+//}
 export default index
