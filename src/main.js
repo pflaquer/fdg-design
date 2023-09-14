@@ -2,6 +2,7 @@ import index  from './content.js'
 import removalServices from './dob-violation-removal-services.js'
 import navbar from './navbar.js'
 import cta from './cta.js'
+
 //render cta
 
 let cta = document.getElementById("cta");
