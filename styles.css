@@ -1,3 +1,7 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+</style>
+
 nav {
   filter: drop-shadow(5px 3px 5px black);
   background-color:white;
@@ -9,4 +13,8 @@ nav {
   box-shadow: 10px 10px 20px gray;
   border-radius:8px;
   opacity: .9;
+}
+
+.headlinetext {
+font-family: 'Goldman', cursive;
 }
