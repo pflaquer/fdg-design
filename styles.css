@@ -16,3 +16,9 @@ nav {
 .headlinetext {
 font-family: 'Goldman', cursive;
 }
+
+body {
+  background-image:linear-gradient(black,lightyellow);
+    width:100%;
+    height:100%;
+    }
