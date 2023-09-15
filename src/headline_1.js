@@ -25,7 +25,7 @@ list-style:none;
 &#11088;	
 &#11088;	
 &#11088;</h1>
-        <p class="lead">We are a leading construction, architecture and engineering design firm.  We provide services throughout the New York, NJ and PA area and are able to provide the best services utilizing the latest BIM and engineering technology.</p>
+        <p class="lead">Leading construction, architecture and engineering design firm.  We provide services throughout the New York, NJ and PA area and are able to provide the best services utilizing the latest BIM and engineering technology.</p>
         </p>
         <ul>
   <li class="lead">&#x2705; Professional Engineers, Architects and Contractors</li>
