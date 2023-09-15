@@ -2,6 +2,7 @@ import index  from './content.js'
 import removalServices from './dob-violation-removal-services.js'
 import navbar from './navbar.js'
 import cta from './cta.js'
+import index_1 from './index_1.js'
 
 //render cta
 
@@ -22,4 +23,10 @@ if(d.getAttribute("name") === "index"){
 else if(d.getAttribute("name") === "removal-services"){
 d.innerHTML = removalServices();
 }
+
+else if(d.getAttribute("name") === "index_1"){
+d.innerHTML = index_1();
+}
+
+
 
