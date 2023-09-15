@@ -49,4 +49,4 @@ list-style:none;
   
 }
 
-exprt default headline_1
+export default headline_1
