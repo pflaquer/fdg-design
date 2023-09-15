@@ -24,7 +24,7 @@ list-style:none;
 <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
       <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
-        <h1 class="display-4 fw-bold lh-1 text-body-emphasis" style="margin-top:75px;"><mark> FLAQUER ENGINEERING GROUP</mark></h1>
+        <h1 class="display-4 fw-bold lh-1 text-body-emphasis" style="margin-top:75px;"><mark>DESIGN + BUILD</mark></h1>
         <p class="lead">We are a leading construction, architecture and engineering design firm.  We provide services throughout the New York, NJ and PA area and are able to provide the best services utilizing the latest BIM and engineering technology.</p>
         </p>
         <ul>
