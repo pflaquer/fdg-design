@@ -1,4 +1,4 @@
-function headline_1(){
+function headline(){
   return(`
   
   <style>
@@ -16,15 +16,25 @@ mark {
   width:100px;
   padding:3px;
 }
+
+ul {
+list-style:none;
+}
 </style>
 <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
       <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
         <h1 class="display-4 fw-bold lh-1 text-body-emphasis"><mark> FLAQUER ENGINEERING GROUP</mark></h1>
-        <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+        <p class="lead">We are a leading construction, architecture and engineering design firm.  We provide services throughout the New York, NJ and PA area and are able to provide the best services utilizing the latest BIM and engineering technology.</p>
+        </p>
+        <ul>
+  <li class="lead">&#x2705; Professional Engineers, Architects and Contractors</li>
+  <li class="lead">&#x2705; Quick Turnaround Time</li>
+  <li class="lead">&#x2705; Over 30 Years Experience</li>
+</ul>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-          <button type="button" class="btn btn-warning btn-lg px-4 me-md-2 fw-bold">Primary</button>
-          <button type="button" class="btn btn-outline-secondary btn-lg px-4">Default</button>
+          <button type="button" href="tel:9179519208" class="btn btn-warning btn-lg px-4 me-md-2 fw-bold">Free Consultation</button>
+          <button type="button" href="mailto:pedro@flaquer.net" class="btn btn-outline-secondary btn-lg px-4">Email</button>
         </div>
       </div>
       <div class="col-lg-2 offset-lg-1 p-0 overflow-hidden shadow-lg">
@@ -38,4 +48,5 @@ mark {
   `)
   
 }
+
 exprt default headline_1
