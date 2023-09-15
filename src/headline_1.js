@@ -1,4 +1,4 @@
-function headline(){
+function headline_1(){
   return(`
   
   <style>
