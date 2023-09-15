@@ -36,7 +36,7 @@ list-style:none;
   <li class="lead">&#x2705; Over 30 Years Experience</li>
 </ul>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-          <button type="button" href="tel:9179519208" class="btn btn-outline-warning btn-lg px-4 me-md-2 fw-bold">Free Consultation</button>
+          <button type="button" href="tel:9179519208" class="btn btn-warning btn-lg px-4 me-md-2 fw-bold">Free Consultation</button>
           <button type="button" href="mailto:pedro@flaquer.net" class="btn btn-outline-secondary btn-lg px-4">Email</button>
         </div>
       </div>
