@@ -17,14 +17,17 @@ list-style:none;
 <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
       <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
-        <h1 class="display-3 fw-light lh-1 text-body-emphasis bg-warning border-primary " style="margin-top:75px;border-radius:10px;background-image:linear-gradient(orange,white);">
+        <h1 class="display-3 fw-light lh-1 text-body-emphasis bg-warning border-primary " style="margin-top:75px;border-radius:10px;background-image:linear-gradient(lightyellow,white);">
  DESIGN + BUILD
  <br>
+</h1>
+<p>
  &#11088;	
 &#11088;	
 &#11088;	
 &#11088;	
-&#11088;</h1>
+&#11088;
+</p>
         <p class="lead">Leading construction, architecture and engineering design firm, providing services throughout the New York, NJ and PA area while utilizing the latest BIM and engineering technology.</p>
         </p>
         <ul>
