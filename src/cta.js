@@ -1,7 +1,7 @@
 function cta(){
   return (`
 
-  <div class="card border-warning" style="padding:5px;background-image:linear-gradient(#2BC0E4,#eaecc6);">
+  <div class="card border-warning" style="padding:5px;background-image:linear-gradient(white,#eaecc6);">
   <div style="padding:7px;">
   <center>
   <h2 class="display-5">Contact Us Today</h2>
