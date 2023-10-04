@@ -37,7 +37,7 @@ list-style:none;
 </ul>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
           <button type="button" href="tel:9179519208" class="btn btn-warning btn-lg px-4 me-md-2 fw-light">Free Consultation</button>
-          <button type="button" href="mailto:pedro@flaquer.net" class="btn btn-outline-secondary btn-lg px-4">Email</button>
+          <button type="button" href="mailto:pjflaquer@gmail.com" class="btn btn-outline-secondary btn-lg px-4">Email</button>
         </div>
       </div>
       <div class="col-lg-2 offset-lg-1 p-0 overflow-hidden shadow-lg">
