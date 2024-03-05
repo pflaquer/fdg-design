@@ -4,6 +4,9 @@ nav {
   filter: drop-shadow(5px 3px 5px black);
   background-color:white;
 }
+.container{
+  color:white;
+}
 
 .logo {
   width: 180px;
