@@ -41,7 +41,7 @@ list-style:none;
         </div>
       </div>
       <div class="col-lg-2 offset-lg-1 p-0 overflow-hidden shadow-lg">
-          <img class="rounded img-thumbnail" src="https://th.bing.com/th/id/OIG..QdHRkWsZ96Sjm27SLEz?pid=ImgGn" alt="" width="360" height="360">
+          <img class="rounded img-thumbnail" src="https://images.ctfassets.net/wp1lcwdav1p1/3GgkKundG6WGpPHOPFBdDq/7cba9177de38af6c6fd9f30b7d377a91/Construction-workers-and-architect-looking-at-blueprints-on-construction-site-514311930_5413x3609__1_.jpeg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive" alt="" width="360" height="360">
       </div>
     </div>
   </div>
