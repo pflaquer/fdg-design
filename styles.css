@@ -26,3 +26,7 @@ body {
   color:black;
   font-family:"Courier-New",monospace;
     }
+
+.btn:hover{
+  transform:scale(1.1);
+}
