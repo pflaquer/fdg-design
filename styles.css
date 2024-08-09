@@ -11,11 +11,8 @@ nav {
 .logo {
   width: 160px;
   height:80px;
-  border-radius:3px;
-  opacity: .9;
-  border-style:solid;
-  border-width:1px;
-  border-color:orange;
+  opacity: .7;
+
 }
 
 .headlinetext {
