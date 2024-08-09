@@ -47,7 +47,7 @@ function index_1(){
             <img class="card-img-top" src="https://www.chemengonline.com/wp-content/uploads/2018/01/manual-workers-working.jpg" alt="" style="height:256px;">
             <div class="card-body">
               <h4 class="card-title">Engineering Services</h4>
-              <p class="lead" style="text-align:left;">Flaquer Design Group is a leading consulting engineering company that specializes in the design and construction of buildings and infrastructure. With over 30 years of experience, Flaquer Engineering has a proven track record of success in delivering high-quality projects on time and within budget.</p>
+              <p class="lead" style="text-align:left;">Flaquer Design Group is a leading consulting engineering company that specializes in the construction of buildings. With over 30 years of experience, FDG has a proven track record of delivering high-quality projects on time and within budget.</p>
             </div>
             <div class="card-footer">
               <a href="tel:9293985614" target="_blank" class="btn btn-warning"><i class="material-icons">email</i> Get a Free Quote</a>
