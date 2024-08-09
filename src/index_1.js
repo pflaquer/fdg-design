@@ -20,7 +20,7 @@ function index_1(){
             <img class="card-img-top" src="https://foyr.com/learn/wp-content/uploads/2019/03/Blueprint.jpg" alt="" style="height:256px;">
             <div class="card-body">
               <h4 class="card-title">Architectural Services</h4>
-              <p class="card-text justify-content-left" style="justify-content: left;">We have over 30 years of designing architectural spaces for commercial and residential clients.  We utilize the latest software and rendering engines to provide detailed models and provide a pleasant design experience for our clients.  </p>
+              <p class="lead" style="justify-content: left;">We have over 30 years of designing architectural spaces for commercial and residential clients.  We utilize the latest software and rendering engines to provide detailed models and provide a pleasant design experience for our clients.  </p>
             </div>
             <div class="card-footer">
               <a href="tel:9179519208" target="_blank" class="btn btn-warning"><i class="material-icons">email</i>Get a Free Quote</a>
