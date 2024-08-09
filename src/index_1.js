@@ -44,10 +44,10 @@ function index_1(){
 -->
 <div class="col-lg-4 col-md-6 mb-4">
           <div class="card" style="height:600px;">
-            <img class="card-img-top" src="https://constructionblog.autodesk.com/wp-content/uploads/2020/08/concrete-contractors-in-construction.jpg" alt="" style="height:256px;">
+            <img class="card-img-top" src="https://www.chemengonline.com/wp-content/uploads/2018/01/manual-workers-working.jpg" alt="" style="height:256px;">
             <div class="card-body">
-              <h4 class="card-title">Construction Services</h4>
-              <p class="lead" style="text-align:left;">We provide construction services for new builds as well as renovations.  From smaller to larger scope builds we are capable and well equipped to handle all kinds of projects.  Residential and Commercial contracting services are available. </p>
+              <h4 class="card-title">Engineering Services</h4>
+              <p class="lead" style="text-align:left;">Flaquer Design Group is a leading consulting engineering company that specializes in the design and construction of buildings and infrastructure. With over 30 years of experience, Flaquer Engineering has a proven track record of success in delivering high-quality projects on time and within budget.</p>
             </div>
             <div class="card-footer">
               <a href="tel:9293985614" target="_blank" class="btn btn-warning"><i class="material-icons">email</i> Get a Free Quote</a>
