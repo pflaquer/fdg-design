@@ -64,7 +64,40 @@
     
     
 <script>
-  document.getElementById("companyinfo").innerHTML = 'Flaquer Engineering Group '+Date().getFullYear;
+document.getElementById("companyinfo").innerHTML = 'Flaquer Engineering Group '+Date().getFullYear;
+//IP logging script
+let uri = 'https://script.google.com/macros/s/AKfycbyYwhHQ8uIt0J5HSc91n5lylAzIyYgrSpxopJY27Ri8-uB5oYBkUHj5v8BcGbmEwJoE/exec'
+let str = ''
+
+let logIP = ()=>{
+const data = str
+    
+fetch('https://www.cloudflare.com/cdn-cgi/trace')
+.then(res=>res.text())
+.then(d=>{
+const searchTerm = 'ip=';
+const indexOfIP = d.indexOf(searchTerm);
+  
+//IP address is typically 15 characters
+  str = d;
+  let ip = d.slice(indexOfIP,indexOfIP+15)
+const formData = new FormData();
+  formData.append("Data",ip);
+  formData.append("Full",str);
+  
+fetch(uri, {
+      method: 'POST',
+      body: formData,
+    })
+    .then(() => {
+      console.log("Success!");
+  alert('Success')
+    })
+ 
+  
+});
+  
+}
 </script>
 
     <!-- Footer -->
