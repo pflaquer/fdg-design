@@ -1,6 +1,6 @@
 function removalServices(){
   return (`
-
+  
   <header class="jumbotron my-4">
         <h1 class="display-5" style="filter: drop-shadow(4px 3px 10px skyblue);align-text:center;text-align:center;margin-top:75px;">The Ultimate Guide to Removing a Building Violation in New York City</h1>
         <p><img src="https://a810-bisweb.nyc.gov/bisweb/images/doblogo_1.jpg" style="border-radius:25px;"</p>
