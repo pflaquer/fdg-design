@@ -15,18 +15,18 @@ function navbar(){
               </a>
             </li>
              <li class="nav-item">
-              <a class="nav-link" href="#about">About</a>
+              <a class="btn btn-outline-info nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#services">Services</a>
+              <a class="btn btn-outline-info nav-link" href="#services">Services</a>
             </li>
   <li class="nav-item">
-              <a class="nav-link" href="dob-violation-removal-services.html">DOB Violation Removal</a>
+              <a class="btn btn-outline-info nav-link" href="dob-violation-removal-services.html">DOB Violation Removal</a>
             </li>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Special Inspection Services</a>
+              <a class="btn btn-outline-info nav-link" href="#">Special Inspection Services</a>
             </li>
 
             <li class="nav-item">
